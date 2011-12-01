@@ -1,2 +1,8 @@
 This is a github project used in order to easily get the PHP stubs for the vSphere API web service.
 Those PHP stubs have been generated using a modified version of ewsdl2php in order to add a namespace and create multiple files rather than a single files.
+
+It can be used as following configuration in a symfony2 deps file:
+
+[VimServiceStub]
+	git=https://bdmu@github.com/bdmu/VimServiceStub.git
+	version=v0.1
