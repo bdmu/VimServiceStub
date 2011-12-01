@@ -1,0 +1,40 @@
+<?php
+namespace VimServiceStub;
+
+class ServiceContent{
+var $rootFolder;//ManagedObjectReference
+var $propertyCollector;//ManagedObjectReference
+var $viewManager;//ManagedObjectReference
+var $about;//AboutInfo
+var $setting;//ManagedObjectReference
+var $userDirectory;//ManagedObjectReference
+var $sessionManager;//ManagedObjectReference
+var $authorizationManager;//ManagedObjectReference
+var $perfManager;//ManagedObjectReference
+var $scheduledTaskManager;//ManagedObjectReference
+var $alarmManager;//ManagedObjectReference
+var $eventManager;//ManagedObjectReference
+var $taskManager;//ManagedObjectReference
+var $extensionManager;//ManagedObjectReference
+var $customizationSpecManager;//ManagedObjectReference
+var $customFieldsManager;//ManagedObjectReference
+var $accountManager;//ManagedObjectReference
+var $diagnosticManager;//ManagedObjectReference
+var $licenseManager;//ManagedObjectReference
+var $searchIndex;//ManagedObjectReference
+var $fileManager;//ManagedObjectReference
+var $virtualDiskManager;//ManagedObjectReference
+var $virtualizationManager;//ManagedObjectReference
+var $snmpSystem;//ManagedObjectReference
+var $vmProvisioningChecker;//ManagedObjectReference
+var $vmCompatibilityChecker;//ManagedObjectReference
+var $ovfManager;//ManagedObjectReference
+var $ipPoolManager;//ManagedObjectReference
+var $dvSwitchManager;//ManagedObjectReference
+var $hostProfileManager;//ManagedObjectReference
+var $clusterProfileManager;//ManagedObjectReference
+var $complianceManager;//ManagedObjectReference
+var $localizationManager;//ManagedObjectReference
+var $storageResourceManager;//ManagedObjectReference
+var $guestOperationsManager;//ManagedObjectReference
+}

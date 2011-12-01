@@ -1,0 +1,6 @@
+<?php
+namespace VimServiceStub;
+
+class ArrayOfVirtualMachineFileLayoutSnapshotLayout{
+var $VirtualMachineFileLayoutSnapshotLayout;//VirtualMachineFileLayoutSnapshotLayout
+}

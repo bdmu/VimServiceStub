@@ -1,0 +1,6 @@
+<?php
+namespace VimServiceStub;
+
+class ArrayOfHostPatchManagerStatusPrerequisitePatch{
+var $HostPatchManagerStatusPrerequisitePatch;//HostPatchManagerStatusPrerequisitePatch
+}

@@ -1,0 +1,6 @@
+<?php
+namespace VimServiceStub;
+
+class ArrayOfHostLowLevelProvisioningManagerDiskLayoutSpec{
+var $HostLowLevelProvisioningManagerDiskLayoutSpec;//HostLowLevelProvisioningManagerDiskLayoutSpec
+}

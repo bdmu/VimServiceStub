@@ -1,0 +1,6 @@
+<?php
+namespace VimServiceStub;
+
+class ArrayOfDistributedVirtualSwitchKeyedOpaqueBlob{
+var $DistributedVirtualSwitchKeyedOpaqueBlob;//DistributedVirtualSwitchKeyedOpaqueBlob
+}

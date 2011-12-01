@@ -1,0 +1,6 @@
+<?php
+namespace VimServiceStub;
+
+class ArrayOfDistributedVirtualSwitchManagerCompatibilityResult{
+var $DistributedVirtualSwitchManagerCompatibilityResult;//DistributedVirtualSwitchManagerCompatibilityResult
+}

@@ -1,0 +1,6 @@
+<?php
+namespace VimServiceStub;
+
+class ArrayOfVirtualMachineLegacyNetworkSwitchInfo{
+var $VirtualMachineLegacyNetworkSwitchInfo;//VirtualMachineLegacyNetworkSwitchInfo
+}

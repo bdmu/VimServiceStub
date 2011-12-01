@@ -1,0 +1,41 @@
+<?php
+namespace VimServiceStub;
+
+class GuestOsDescriptor{
+var $id;//string
+var $family;//string
+var $fullName;//string
+var $supportedMaxCPUs;//int
+var $numSupportedPhysicalSockets;//int
+var $numSupportedCoresPerSocket;//int
+var $supportedMinMemMB;//int
+var $supportedMaxMemMB;//int
+var $recommendedMemMB;//int
+var $recommendedColorDepth;//int
+var $supportedDiskControllerList;//string
+var $recommendedSCSIController;//string
+var $recommendedDiskController;//string
+var $supportedNumDisks;//int
+var $recommendedDiskSizeMB;//int
+var $supportedEthernetCard;//string
+var $recommendedEthernetCard;//string
+var $supportsSlaveDisk;//boolean
+var $cpuFeatureMask;//HostCpuIdInfo
+var $smcRequired;//boolean
+var $supportsWakeOnLan;//boolean
+var $supportsVMI;//boolean
+var $supportsMemoryHotAdd;//boolean
+var $supportsCpuHotAdd;//boolean
+var $supportsCpuHotRemove;//boolean
+var $supportedFirmware;//string
+var $recommendedFirmware;//string
+var $supportedUSBControllerList;//string
+var $recommendedUSBController;//string
+var $supports3D;//boolean
+var $smcRecommended;//boolean
+var $ich7mRecommended;//boolean
+var $usbRecommended;//boolean
+var $supportLevel;//string
+var $supportedForCreate;//boolean
+var $vRAMSizeInKB;//IntOption
+}

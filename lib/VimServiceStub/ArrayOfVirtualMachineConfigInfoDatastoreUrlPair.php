@@ -1,0 +1,6 @@
+<?php
+namespace VimServiceStub;
+
+class ArrayOfVirtualMachineConfigInfoDatastoreUrlPair{
+var $VirtualMachineConfigInfoDatastoreUrlPair;//VirtualMachineConfigInfoDatastoreUrlPair
+}

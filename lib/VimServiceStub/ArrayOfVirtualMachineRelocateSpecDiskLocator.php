@@ -1,0 +1,6 @@
+<?php
+namespace VimServiceStub;
+
+class ArrayOfVirtualMachineRelocateSpecDiskLocator{
+var $VirtualMachineRelocateSpecDiskLocator;//VirtualMachineRelocateSpecDiskLocator
+}

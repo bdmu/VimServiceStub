@@ -1,0 +1,6 @@
+<?php
+namespace VimServiceStub;
+
+class ArrayOfDistributedVirtualSwitchHostMemberPnicSpec{
+var $DistributedVirtualSwitchHostMemberPnicSpec;//DistributedVirtualSwitchHostMemberPnicSpec
+}

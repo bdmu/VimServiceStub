@@ -1,0 +1,43 @@
+<?php
+namespace VimServiceStub;
+
+class HostConfigInfo{
+var $host;//ManagedObjectReference
+var $product;//AboutInfo
+var $hyperThread;//HostHyperThreadScheduleInfo
+var $consoleReservation;//ServiceConsoleReservationInfo
+var $virtualMachineReservation;//VirtualMachineMemoryReservationInfo
+var $storageDevice;//HostStorageDeviceInfo
+var $multipathState;//HostMultipathStateInfo
+var $fileSystemVolume;//HostFileSystemVolumeInfo
+var $systemFile;//string
+var $network;//HostNetworkInfo
+var $vmotion;//HostVMotionInfo
+var $virtualNicManagerInfo;//HostVirtualNicManagerInfo
+var $capabilities;//HostNetCapabilities
+var $datastoreCapabilities;//HostDatastoreSystemCapabilities
+var $offloadCapabilities;//HostNetOffloadCapabilities
+var $service;//HostServiceInfo
+var $firewall;//HostFirewallInfo
+var $autoStart;//HostAutoStartManagerConfig
+var $activeDiagnosticPartition;//HostDiagnosticPartition
+var $option;//OptionValue
+var $optionDef;//OptionDef
+var $datastorePrincipal;//string
+var $localSwapDatastore;//ManagedObjectReference
+var $systemResources;//HostSystemResourceInfo
+var $dateTimeInfo;//HostDateTimeInfo
+var $flags;//HostFlagInfo
+var $adminDisabled;//boolean
+var $ipmi;//HostIpmiInfo
+var $sslThumbprintInfo;//HostSslThumbprintInfo
+var $sslThumbprintData;//HostSslThumbprintInfo
+var $certificate;//byte
+var $pciPassthruInfo;//HostPciPassthruInfo
+var $authenticationManagerInfo;//HostAuthenticationManagerInfo
+var $featureVersion;//HostFeatureVersionInfo
+var $powerSystemCapability;//PowerSystemCapability
+var $powerSystemInfo;//PowerSystemInfo
+var $cacheConfigurationInfo;//HostCacheConfigurationInfo
+var $wakeOnLanCapable;//boolean
+}

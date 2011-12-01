@@ -1,0 +1,6 @@
+<?php
+namespace VimServiceStub;
+
+class ArrayOfUpdateVirtualMachineFilesResultFailedVmFileInfo{
+var $UpdateVirtualMachineFilesResultFailedVmFileInfo;//UpdateVirtualMachineFilesResultFailedVmFileInfo
+}
